@@ -1,0 +1,5 @@
+1
+Peso: 69
+Altura: 7
+Tipo: grass
+Imagen: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
